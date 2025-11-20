@@ -52,11 +52,11 @@
 import React, { useState } from 'react';
 
 // IMPORT COMPONENTS
-import { Navbar } from './Components/Navbar.jsx';
-import { Hero } from './Components/Hero.jsx';
-import { Products } from './Components/Products.jsx';
-import { Footer } from './Components/Foooter.jsx';
-import {Customer} from './Components/Customer.jsx';
+import  Navbar  from '/Components/Navbar.jsx';
+import  Hero  from './Components/Hero.jsx';
+import  Products  from './Components/Products.jsx';
+import  Footer  from './Components/Foooter.jsx';
+import Customer from './Components/Customer.jsx';
 
 // IMPORT IMAGES
 import bagass1 from './assets/bagass1.png';
